@@ -1,0 +1,61 @@
+{
+  "robots": [
+    {
+      "name": "Sparky",
+      "color": "Silver",
+      "attack": "axe",
+      "defense": "shield"
+    },
+    {
+      "name": "Tobor",
+      "color": "Orange",
+      "attack": "claw",
+      "defense": "armor"
+    },
+    {
+      "name": "Bender",
+      "color": "Green",
+      "attack": "fire",
+      "defense": "marbles"
+    }
+  ],
+  "colors": [
+    "Black",
+    "White",
+    "Silver",
+    "Red",
+    "Orange",
+    "Yellow",
+    "Green",
+    "Blue",
+    "Purple"
+  ],
+  "attacks": [
+    {
+      "name": "axe",
+      "strength": 3
+    },
+    {
+      "name": "claw",
+      "strength": 2
+    },
+    {
+      "name": "fire",
+      "strength": 1
+    }
+  ],
+  "defenses": [
+    {
+      "name": "armor",
+      "strength": 3
+    },
+    {
+      "name": "shield",
+      "strength": 2
+    },
+    {
+      "name": "marbles",
+      "strength": 1
+    }
+  ]
+}
